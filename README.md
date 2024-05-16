@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me -> LinkedIn
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love Cricket
 
 <!---
 SubajananiSwaminathan/SubajananiSwaminathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
